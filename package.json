@@ -6,6 +6,12 @@
   "scripts": {
     "test": "Error"
   },
+  "bin": {
+    "numnest": "./main.js"
+  },
   "author": "Choi Kyeongjeong",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
 }
